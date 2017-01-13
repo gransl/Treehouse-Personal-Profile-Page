@@ -142,11 +142,12 @@ ul.skills {
 }
 
 .tortoise-image {
+  display: block;
   margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
-  width: 400px;
-  height: 350px;
+  max-width: 200px;
+  max-height: 150px;
   border-radius: 25%;
 }
 
